@@ -1,1 +1,1 @@
-# tuturial-quarkus-github-app
+# tutorial-quarkus-github-app
