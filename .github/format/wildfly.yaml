@@ -1,3 +1,4 @@
 wildfly:
   rules: "rules text"
-  format: "format text"
+  title: "format text"
+  body: "body text"
