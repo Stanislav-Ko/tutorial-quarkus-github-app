@@ -1,4 +1,4 @@
 wildfly:
   rules:
     - title: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
-
+    - body: true
