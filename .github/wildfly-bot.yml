@@ -1,3 +1,4 @@
 wildfly:
-  - title: "test"
-  - body: "Just do it"
+  rules:
+    - title: "test"
+      notify: [xstefank,petrberan]
