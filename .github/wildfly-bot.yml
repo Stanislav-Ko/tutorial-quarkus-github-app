@@ -1,4 +1,2 @@
 wildfly:
   - title: "test"
-  - body: "Body text"
-  notify: [xstefank,petrberan]
