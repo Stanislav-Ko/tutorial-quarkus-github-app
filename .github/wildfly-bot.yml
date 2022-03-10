@@ -1,3 +1,2 @@
 wildfly:
-  rules:
-    - title: "test"
+  title: "test"
