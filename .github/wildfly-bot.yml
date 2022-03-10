@@ -1,1 +1,2 @@
-title:"\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
+wildfly:
+  - title: "test"
