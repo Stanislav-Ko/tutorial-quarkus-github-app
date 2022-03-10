@@ -1,2 +1,2 @@
 wildfly:
-  - title: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
+  - title:"\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
