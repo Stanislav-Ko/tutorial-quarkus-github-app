@@ -1,1 +1,4 @@
-- title: "test"
+wildfly:
+  rules:
+    - title: "test"
+      notify: [xstefank,petrberan]
