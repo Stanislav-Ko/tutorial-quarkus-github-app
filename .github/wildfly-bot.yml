@@ -1,4 +1,4 @@
 wildfly:
-  rules:
   - title: "test"
+  rules:
       notify: [xstefank,petrberan]
