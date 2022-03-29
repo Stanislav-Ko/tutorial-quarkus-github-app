@@ -1,4 +1,4 @@
 wildfly:
   title: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
   env:
-    token: ${{ secrets.GITHUB_TOKEN }}
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
