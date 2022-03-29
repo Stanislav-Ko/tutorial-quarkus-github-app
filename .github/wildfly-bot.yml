@@ -1,3 +1,2 @@
 wildfly:
   title: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
-  test: ${ secrets.TEST_SECRET }
