@@ -3,5 +3,5 @@ wildfly:
     title: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
     body: "Body text"
     titleBody: "TitleBody text
-    directories: ["directory1", "directory2]
-    notify: ["notify1", "notify2]
+    directories: ["directory1", "directory2"]
+    notify: ["notify1", "notify2"]
