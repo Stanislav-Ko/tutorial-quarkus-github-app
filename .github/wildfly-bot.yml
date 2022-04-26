@@ -5,3 +5,4 @@ wildfly:
     titleBody: "TitleBody text"
     directories: ["directory1", "directory2"]
     notify: ["notify1", "notify2"]
+ test fail
