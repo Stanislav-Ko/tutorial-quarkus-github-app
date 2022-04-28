@@ -5,6 +5,6 @@ wildfly:
       notify: [xstefank,petrberan]
   format:
     description:
-          pattern: "JIRA:\\s+https://issues.jboss.org/browse/WFLY-\\d+|https://issues.jboss.org/browse/WFLY-\\d+"
-          message: "The PR description must contain a link to the JIRA issue"
+      pattern: "JIRA:\\s+https://issues.jboss.org/browse/WFLY-\\d+|https://issues.jboss.org/browse/WFLY-\\d+"
+      message: "The PR description must contain a link to the JIRA issue"
 
