@@ -11,7 +11,7 @@ wildfly:
       pattern: "JIRA:\\s+https://issues.jboss.org/browse/WFLY-\\d+|https://issues.jboss.org/browse/WFLY-\\d+"
       message: "The PR description must contain a link to the JIRA issue"
     commits-quantity:
-      quantity: "1-3"
+      quantity: "1-2"
       message: "Too many commits in PR!"
 
 
