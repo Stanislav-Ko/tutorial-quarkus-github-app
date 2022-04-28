@@ -10,5 +10,9 @@ wildfly:
     title-check:
       pattern: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
       message: "Wrong content of the title!"
+    commits-quantity:
+      quantity: "1-3"
+      message: "Too many commits in PR!"
+
 
 
